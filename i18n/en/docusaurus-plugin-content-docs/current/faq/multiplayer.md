@@ -75,6 +75,9 @@ To run a dedicated game server, you will need to [download the server itself](ht
 Most [modloaders](/tags/modloader) support installation as a game server.
 
 ## Common issues {#troubleshooting}
+### Multiplayer button is not active! {#multiplayer-disabled}
+This problem is specific to Minecraft 1.16.5 when using offline (w/o password) account. Use Ely.by or Microsoft account. You can also try [this mod](https://modrinth.com/mod/enablemultiplayermode).
+
 ### Invalid session (try restarting your game) {#invalid-session}
 The server you are connecting to allows only Minecraft Premium players.
 * If this is your server, change the `online-mode` parameter to `false`.
