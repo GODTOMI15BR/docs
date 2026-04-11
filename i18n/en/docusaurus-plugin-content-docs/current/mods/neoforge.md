@@ -5,9 +5,6 @@ tags:
 ---
 # NeoForge Installation
 
-:::danger
-NeoForge is a new modloader. It is mostly in beta and may be unstable
-:::
 :::info
 Legacy Launcher 161.0 or newer is required to use NeoForge
 :::
